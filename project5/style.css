@@ -842,10 +842,11 @@ footer{
 
 
 .mobile{
-    padding: 2% 0;
+    padding: 5% 0;
     width: 100%;
     text-align: center;
     font-size: 0.5rem;
+     
 }
 .mobile i{
     margin: 0 6px;
